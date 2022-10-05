@@ -1,4 +1,4 @@
-package ca.gbc.comp3095.petclinic.model;
+package petclinic.model;
 
 public class PetType {
     private String name;
